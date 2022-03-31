@@ -5,9 +5,9 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/CodeWithNeo/YoutubeDownloaderBot/",
-  "success_url": "https://t.me/urlUploaderProBot",
-  "website": "https://github.com/CodeWithNeo/YoutubeDownloaderBot",
+  "repository": "https://github.com/GoriberShikkhaloy/YoutubeDownloaderBot",
+  "success_url": "https://t.me/YTDL2TGbot",
+  "website": "https://github.com/GoriberShikkhaloy/YoutubeDownloaderBot",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
